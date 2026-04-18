@@ -1,6 +1,6 @@
 # experiment-12
 Roll No: 25070123125
-EXP 10 : Study of Pandas Library
+EXP 12 : Study of Pandas Library
 Theory
 Pandas DataFrame
 
